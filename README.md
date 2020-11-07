@@ -3,8 +3,8 @@
 ## I'm a Data Scientist!
 - I’m currently working on various open source data science projects!
 - I’m currently open for a data scientist position
-- 2020 Goals: Contribute more to Open Source projects
-- Fun fact: I love to Travel and enjoy watching soccer
+- 2020 and 2021 Goals: Contribute more to Open Source projects
+- Fun fact: I love to Travel, enjoy watching soccer and playing Tennis
 
 ### Connect with me:
 
