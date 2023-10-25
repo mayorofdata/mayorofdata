@@ -1,4 +1,4 @@
-### Hi there, I'm Mayowa Michael! 👋
+### Hi there, I'm Mayowa Adeleye! 👋
 
 ## I'm a Data Scientist!
 - I’m currently working on various open source data science projects!
