@@ -32,7 +32,7 @@
 [website]: https://mayorofdata.tumblr.com
 [email]: mailto:mmadeleye@gmail.com
 [twitter]: https://twitter.com/adeleyemm
-[linkedin]: https://www.linkedin.com/in/mayowa-michael-adeleye-20853b89/
+[linkedin]: https://www.linkedin.com/in/mmadeleye/
 [python]: https://www.python.org
 [sql]: https://en.wikipedia.org/wiki/SQL
 [mysql]: https://www.mysql.com
